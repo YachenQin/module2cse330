@@ -1,0 +1,79 @@
+h1 {
+    text-align:center;
+    color: tomato;
+    font-family: chalkduster;
+    font-size: 200%;
+    font-weight:bold;
+}
+
+.p1
+{
+    font-family: Microsoft YaHei;
+    font-size: 20px;
+    position: absolute;
+    left: 400px;
+    top: 50px;
+}
+
+.p2
+{
+    font-family: Microsoft YaHei;
+    font-size: 20px;
+}
+
+.p3
+{
+    font-family: Microsoft YaHei;
+    font-size: 20px;
+    left: 400px;
+    top: 300px;
+}
+
+.mycomment
+{
+    font-family: Microsoft YaHei;
+    font-size: 20px;
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    width: 400px;
+    height: 100px;
+    border-radius:3px;
+    border:1px solid hsla(0,80%,75%,0.2);
+
+}
+
+.mytxt2
+{
+    color:#333;
+    line-height:normal;
+    font-family:"Microsoft YaHei",Tahoma,Verdana,SimSun;
+    font-size: 20px;
+    border-radius:3px;
+    border:1px solid hsla(0,80%,75%,0.2);
+    background-color:hsla(0,80%,75%,0.2);
+    position: absolute;
+    left: 400px;
+    top: 420px;
+    width: 400px;
+    height: 40px;
+    opacity:50;
+}
+
+.mytxt
+{
+    color:#333;
+    line-height:normal;
+    font-family:"Microsoft YaHei",Tahoma,Verdana,SimSun;
+    font-size: 20px;
+    border-radius:3px;
+    border:1px solid hsla(0,80%,75%,0.2);
+    background-color:hsla(0,80%,75%,0.2);
+    position: absolute;
+    left: 400px;
+    top: 150px;
+    width: 400px;
+    height: 40px;
+    opacity:50;
+}
+
